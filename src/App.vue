@@ -2,6 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     <router-view/>
+    <footer>我是底部</footer>
   </div>
 </template>
 
